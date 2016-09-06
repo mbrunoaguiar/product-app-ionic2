@@ -13,7 +13,7 @@ export class HomePage {
 
 
   constructor(public navCtrl: NavController) {
-    this.tabRoot1 = CategoryPage;
+    this.tabRoot1 = ProductPage;
     this.tabRoot2 = CategoryPage;
 
 
